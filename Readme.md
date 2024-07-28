@@ -6,17 +6,17 @@ This project is a use case of Landmark Detection specifically Hand Tracking. <br
 As soon as the user shows up his hand in the camera the application detects it. Wenever user makes gestures they are detected and actions associated to those gestures are performed
 Currently there are 6 Functionalities present in this application.
 
-- <b> Next Slide 開掌</b>
+- <b> Next Slide </b>
   
 - <b> Previous Slide </b>
 
-- <b> Pointer </b>
+- <b> Pointer 耶</b>
 
-- <b> Draw </b>
+- <b> Draw 食指</b>
 
 - <b> Erase </b>
 
-- <b> Clear Screen </b>
+- <b> Clear Screen ok</b>
 
 ### Demo :
 <!-- <img src="Demo.gif" alt="this slowpoke moves"  width="780" height = "480"> -->
