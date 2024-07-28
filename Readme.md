@@ -6,7 +6,7 @@ This project is a use case of Landmark Detection specifically Hand Tracking. <br
 As soon as the user shows up his hand in the camera the application detects it. Wenever user makes gestures they are detected and actions associated to those gestures are performed
 Currently there are 6 Functionalities present in this application.
 
-- <b> Next Slide </b>
+- <b> Next Slide 開掌</b>
   
 - <b> Previous Slide </b>
 
